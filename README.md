@@ -8,7 +8,7 @@ Now, our motivation is to find out which category instances occur most frequentl
 and we have chosen the Apriori Algorithm because of its effectiveness in discovering frequent itemsets and association rules while working on large datasets.
 It is commonly seen in Market Basket Analysis, Web Usage Mining and Recommendation Systems to identify association between products and increasing user
 engagement.
-## Table 0f Contents
+## Table Of Contents
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -23,5 +23,9 @@ Project is created with:
 * Python (itertools and combinations library)
 
 ## Setup
+To first run this project and the source code, we will implementing the following on Visual Studio Code.
+[1]: https://code.visualstudio.com/download "VsCode"
+
+
 
 
