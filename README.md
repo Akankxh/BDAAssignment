@@ -38,11 +38,13 @@ After running the above command on the terminal, the patterns_1.txt will be prod
 python patterns_all.py
 ```
 
-*Finally, to produce all the closed frequent itemsets, run the patterns_close.py file which will be present in the directory. This will produce the patterns_close.txt file which will consist of these closed frequent itemsets.
+* Finally, to produce all the closed frequent itemsets, run the patterns_close.py file which will be present in the directory. This will produce the patterns_close.txt file which will consist of these closed frequent itemsets.
 ```bash
 python patterns_close.py
 ```
 
+* In each txt file, the itemsets will be displayed in descending order and this due to the implementation of a merge sort function present in the respective codes which sorts them in descendig order
 
+## THANK YOU
 
 
