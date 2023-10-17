@@ -24,7 +24,11 @@ Project is created with:
 
 ## Setup
 To first run this project and the source code, we will implementing the following on Visual Studio Code.
-[1]: https://code.visualstudio.com/download "VsCode"
+[1]: https://code.visualstudio.com/download 
+
+* Create a directory containing the dataset categories.txt.txt
+* First, start with producing the patterns_1.txt file, you will have to run the patterns_1.py file which is present in the directory with the following command on the terminal:
+  $ python patterns_1.py
 
 
 
