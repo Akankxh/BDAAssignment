@@ -43,7 +43,9 @@ python patterns_all.py
 python patterns_close.py
 ```
 
-* In each txt file, the itemsets will be displayed in descending order and this due to the implementation of a merge sort function present in the respective codes which sorts them in descendig order
+* In each txt file, the itemsets will be displayed in descending order and this due to the implementation of a merge sort function present in the respective codes which sorts them in descending order.
+
+For better viewing of this README file, do view it via GitHub or a Markdown extension for utmost clarity while running the code.
 
 ## THANK YOU
 
